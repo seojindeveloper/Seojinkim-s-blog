@@ -4,8 +4,6 @@ import styles from './styles.module.css'
 
 export const GitHubShareButton: React.FC = () => {
   return (
-    <a
-      
-    </a>
+    <a></a>
   )
 }
